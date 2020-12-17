@@ -9,3 +9,4 @@ Pion has a vibrant community on the Golang Slack. We love hearing about what you
 
 1. [Invite](http://invite.slack.golangbridge.org/) yourself to the Golang Slack.
 2. Join the [#pion](http://gophers.slack.com/messages/pion) channel.
+3. Introduce yourself
